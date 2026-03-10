@@ -5,3 +5,18 @@
   justify-content: center;
   align-items: center;
 }
+
+.acordian {
+  width: 500px;
+}
+
+.item {
+  background: #G14101;
+  margin-bottom: 10px;
+  padding: 10px 20px;
+}
+
+.title {
+  color: #ffffff;
+  display: flex;
+}
