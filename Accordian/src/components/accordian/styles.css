@@ -1,17 +1,17 @@
 .wrapper {
   display: flex;
-  height: 100;
-  width: 100vh;
+  height: 100vh;
+  width: 100vw;
   justify-content: center;
   align-items: center;
 }
 
-.acordian {
+.accordian {
   width: 500px;
 }
 
 .item {
-  background: #G14101;
+  background: #f14101;
   margin-bottom: 10px;
   padding: 10px 20px;
 }
